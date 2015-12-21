@@ -1,7 +1,7 @@
 name: Diwo
 favicon: null
-layout_spectrum: 0.6494644274935126
-typography_spectrum: 0.8531864783726633
+layout_spectrum: 0.9634
+typography_spectrum: 0.15495
 title: Diwo - Digital Workplace Consulting
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.3379759907256812
+    - '#fdf8f5'
+    - '#e0ddca'
+    - '#161d2f'
+    - '#899a87'
+    - '#35484c'
+  brandStrength: 0.9375
   lightness: 0.9073998257517815
   saturation: 0.9122712451498955
   rhythmicContrast: 0.015842614229768515

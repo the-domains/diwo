@@ -6,26 +6,27 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-21T19:42:06.331Z'
-dateModified: '2015-12-21T19:41:47.523Z'
+datePublished: '2015-12-21T19:46:58.458Z'
+dateModified: '2015-12-21T19:46:55.530Z'
 title: |-
   10 trender inom intranät & digital
   arbetsplats - 2016
 author: []
+sourcePath: _posts/2015-12-21-10-trender-inom-intranat-and-digital-arbetsplats-2016.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-21-10-trender-inom-intranat-and-digital-arbetsplats-2016.md
-published: true
 url: 10-trender-inom-intranat-and-digital-arbetsplats-2016/index.html
 _type: Article
 
 ---
 # 10 trender inom intranät & digital
 arbetsplats - 2016
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7b98368-de3d-4e2a-9c68-a69b595b3daf.jpg)
 
 **\#1 Hej då intranätet, välkommen den digitala
 arbetsplatsen**
@@ -53,7 +54,7 @@ dags att tänka nytt för att nå resultat... Välkommen den digitala
 arbetsplatsen
 
 **\#2 Nya perspektiv på ledarskap - Organisationer måste anpassa sitt ledarskap
-till den digitala eran**
+till den digitala eran******
 
 Om du inte är född på 1990-talet, är du sannolikt
 en digital invandrare - någon vars förmåga att
